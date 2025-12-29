@@ -20,12 +20,12 @@
 
 | 排名 | 插件名称 | 描述 |
 |------|---------|------|
-| 🥇 | **n8n-nodes-feishu** | 飞书开放平台集成插件，提供知识库、群组管理、通讯录、任务、云文档、电子表格、多维表格、消息、日历、Aily、云空间等全方位功能 |
-| 🥈 | **n8n-nodes-authing-admin** | Authing 管理后台 API 集成插件 |
-| 🥉 | **n8n-nodes-feishu-project** | 飞书项目 (Feishu Project) API 集成插件，支持工作项管理、空间管理、用户管理等 |
-| 4️⃣ | **n8n-nodes-italent** | iTalent 集成插件 |
-| 5️⃣ | **n8n-nodes-qingflow-oa** | 轻流 OA 系统集成插件 |
-| 6️⃣ | **n8n-nodes-volcengine** | 火山引擎 API 集成插件 |
+| 🥇 | [**n8n-nodes-feishu**](https://github.com/luka-n8n-nodes/n8n-nodes-feishu) | 飞书开放平台集成插件，提供知识库、群组管理、通讯录、任务、云文档、电子表格、多维表格、消息、日历、Aily、云空间等全方位功能 |
+| 🥈 | [**n8n-nodes-authing-admin**](https://github.com/luka-n8n-nodes/n8n-nodes-authing-admin) | Authing 管理后台 API 集成插件 |
+| 🥉 | [**n8n-nodes-feishu-project**](https://github.com/luka-n8n-nodes/n8n-nodes-feishu-project) | 飞书项目 (Feishu Project) API 集成插件，支持工作项管理、空间管理、用户管理等 |
+| 4️⃣ | [**n8n-nodes-italent**](https://github.com/luka-n8n-nodes/n8n-nodes-italent) | iTalent 集成插件 |
+| 5️⃣ | [**n8n-nodes-qingflow-oa**](https://github.com/luka-n8n-nodes/n8n-nodes-qingflow-oa) | 轻流 OA 系统集成插件 |
+| 6️⃣ | [**n8n-nodes-volcengine**](https://github.com/luka-n8n-nodes/n8n-nodes-volcengine) | 火山引擎 API 集成插件 |
 
 ## 🛠️ 技术栈
 
@@ -62,12 +62,12 @@ The following is the ranking of N8N plugins maintained in this workspace:
 
 | Rank | Plugin Name | Description |
 |------|-------------|-------------|
-| 🥇 | **n8n-nodes-feishu** | Feishu Open Platform integration plugin, providing comprehensive features including knowledge base, group management, contacts, tasks, cloud documents, spreadsheets, multi-dimensional tables, messages, calendar, Aily, cloud space, etc. |
-| 🥈 | **n8n-nodes-authing-admin** | Authing Admin API integration plugin |
-| 🥉 | **n8n-nodes-feishu-project** | Feishu Project API integration plugin, supporting work item management, space management, user management, etc. |
-| 4️⃣ | **n8n-nodes-italent** | iTalent integration plugin |
-| 5️⃣ | **n8n-nodes-qingflow-oa** | Qingflow OA system integration plugin |
-| 6️⃣ | **n8n-nodes-volcengine** | VolcEngine API integration plugin |
+| 🥇 | [**n8n-nodes-feishu**](https://github.com/luka-n8n-nodes/n8n-nodes-feishu) | Feishu Open Platform integration plugin, providing comprehensive features including knowledge base, group management, contacts, tasks, cloud documents, spreadsheets, multi-dimensional tables, messages, calendar, Aily, cloud space, etc. |
+| 🥈 | [**n8n-nodes-authing-admin**](https://github.com/luka-n8n-nodes/n8n-nodes-authing-admin) | Authing Admin API integration plugin |
+| 🥉 | [**n8n-nodes-feishu-project**](https://github.com/luka-n8n-nodes/n8n-nodes-feishu-project) | Feishu Project API integration plugin, supporting work item management, space management, user management, etc. |
+| 4️⃣ | [**n8n-nodes-italent**](https://github.com/luka-n8n-nodes/n8n-nodes-italent) | iTalent integration plugin |
+| 5️⃣ | [**n8n-nodes-qingflow-oa**](https://github.com/luka-n8n-nodes/n8n-nodes-qingflow-oa) | Qingflow OA system integration plugin |
+| 6️⃣ | [**n8n-nodes-volcengine**](https://github.com/luka-n8n-nodes/n8n-nodes-volcengine) | VolcEngine API integration plugin |
 
 ## 🛠️ Tech Stack
 
